@@ -1,6 +1,6 @@
 # Session 02 
 
-# Link https://josschavezf.github.io/R_for_epi/session03/session03.html
+# Link https://joaa-hash.github.io/R_for_epi/session03/session03.html
 
 
 x <- c("a", "b", "c")

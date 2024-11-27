@@ -1,7 +1,7 @@
 ---
 title: "Plotting with ggplot2"
 subtitle: "Part II"
-author: "Joselyn Chávez"
+author: "Josue Acuna"
 date: "05/24/2022"
 output:
   xaringan::moon_reader:

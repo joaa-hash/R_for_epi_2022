@@ -1,6 +1,6 @@
 # Session 02 
 
-# Link https://josschavezf.github.io/R_for_epi/session02/session02.html
+# Link https://joaa-hash.github.io/R_for_epi/session02/session02.html
 
 my_vector <- "this a phrase"
 

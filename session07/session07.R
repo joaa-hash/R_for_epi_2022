@@ -1,6 +1,6 @@
 # Session 07 
 
-# Link https://josschavezf.github.io/R_for_epi/session07/session07.html
+# Link https://joaa-hash.github.io/R_for_epi/session07/session07.html
 
 # install.packages("ggplot2")
 

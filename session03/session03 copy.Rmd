@@ -1,7 +1,7 @@
 ---
 title: "Introduction to coding with R"
 subtitle: "Part I"
-author: "Joselyn Chavez"
+author: "Josue Acuna"
 date: "04/12/2022"
 output:
   xaringan::moon_reader:

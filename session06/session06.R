@@ -1,6 +1,6 @@
 # Session 06 
 
-# Link https://josschavezf.github.io/R_for_epi/session06/session06.html
+# Link https://joaa-hash.github.io/R_for_epi/session06/session06.html
 
 library(tidyverse)
 library(janitor)
